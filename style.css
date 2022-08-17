@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .text-size{
     width: 50%;
@@ -26,6 +27,17 @@ section{
     font-weight: 700;
     border-radius: 5px;
 }
-.top-ban{
+.top-bann{
     background-image: url(images/top-banner\ -\ Copy\ \(2\)\ \(1\).jpg);
+}
+.text-size01 img{
+    width: 75%;
+}
+.text-size01{
+    width: 53%;
+}
+.dreem-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
